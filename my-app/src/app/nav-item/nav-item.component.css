@@ -1,0 +1,11 @@
+.box{
+  background: linear-gradient(#8b3131,#722626);
+display:inline-block;
+    widows: 15%;
+    height:10%;
+    text-align: center;
+    margin: 2px;
+    font-size:30px;
+    border-style: groove;
+    border-color: #c2b2af; 
+}
