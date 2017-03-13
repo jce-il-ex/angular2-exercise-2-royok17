@@ -14,11 +14,11 @@ myList = [
   },
   {
     id:2,
-    txt:'First page'
+    txt:'Forums'
   },
   {
     id:3,
-    txt:'Second page'
+    txt:'Chats'
   },
   {
     id:4,
