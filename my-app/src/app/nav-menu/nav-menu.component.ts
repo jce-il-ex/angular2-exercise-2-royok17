@@ -29,5 +29,4 @@ myList = [
 
   ngOnInit() {
   }
-
 }
